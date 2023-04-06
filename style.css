@@ -1,0 +1,13 @@
+#bd {
+    background-color: cyan;
+    color: darkolivegreen;
+}
+#h1 {
+    font-weight: bold;
+    color: chocolate;
+}
+#btt {
+    font-style: italic;
+    background-color: rgb(0, 0, 0);
+    color: antiquewhite;
+}
